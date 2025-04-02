@@ -1,3 +1,2 @@
-print("Boa tarde a todos! Tudo bom com vocês?")
-
-
+print("hello rapaziada morram")
+print("marlon mandou a boa aqui 🤣😂😂😁😁")
