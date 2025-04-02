@@ -1,3 +1,3 @@
-print("Boa tarde a todos! Tudo bom com vocês?")
+print("cala boca bobao idiota bastardo grrrrrrrr ! 🤬😡😡😠")
 
-
+print("o daniel ajudou nois 🐦🐛🐌")
